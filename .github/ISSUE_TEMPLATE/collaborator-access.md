@@ -10,16 +10,18 @@ Collaborator access is granted to an individual who wants to become a member of 
 
 Please provide answers to the following questions in order for your access request to be considered:
 
-What is your Github User Name? (ex: https://github.com/jacebryan)
+What is your Github User Name? (ex: https://github.com/jacebryan)<br>
+You are required to have a Github account in order to engage as a Collaborator
 -------------------------------------------
 ...
 
-What Project are you looking to support as a Collaborator?
-You can find a list of Projects [here](https://github.com/SFDO-Community-Sprints).
+What Project are you looking to support as a Collaborator?<br>
+https://github.com/SFDO-Community-Sprints
 -------------------------------------------
 …
 
-Please provide a link your Power of US Hub profile. (ex: https://powerofus.force.com/s/profile/0058000000CCE1k)
+Please provide a link your Power of US Hub profile. (ex: https://powerofus.force.com/s/profile/0058000000CCE1k)<br>
+You are required to have a Power of US Hub profile in order to engage as a Collaborator
 -------------------------------------------
 …
 
