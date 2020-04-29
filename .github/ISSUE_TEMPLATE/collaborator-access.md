@@ -20,7 +20,7 @@ https://github.com/SFDO-Community-Sprints
 -------------------------------------------
 …
 
-Please provide a link your Power of US Hub profile. (ex: https://powerofus.force.com/s/profile/0058000000CCE1k)
+Please provide a link your Power of US Hub profile.
 You are required to have a Power of US Hub profile in order to engage as a Collaborator
 -------------------------------------------
 …
