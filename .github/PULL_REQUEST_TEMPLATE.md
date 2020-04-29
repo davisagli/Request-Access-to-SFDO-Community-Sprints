@@ -1,7 +1,7 @@
 ---
 labels: Approved for Access
 title: Access Request Approved
-assignees: jacebryan
+reviewers: jacebryan
 ---
 
 ### Related Issue:
