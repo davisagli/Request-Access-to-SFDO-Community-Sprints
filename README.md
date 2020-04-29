@@ -1,4 +1,4 @@
-# Request Access to join an [SFDO-Community-Sprint](https://github.com/SFDO-Community-Sprints) project below!
+# Request Access to join an [SFDO-Community-Sprint](https://github.com/SFDO-Community-Sprints) Project!
 
 ### To request access as a Project Contributor click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request)!
 
