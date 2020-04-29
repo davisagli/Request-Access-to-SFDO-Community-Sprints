@@ -1,9 +1,5 @@
-### Github Username:
+### Related Issue:
 
-### Project:
+### Team to be Assigned To:
 
-### Power of US HUB Profile:
-
-### Team Name:
-
-### Team Access Granted:
+### Team Access To be Granted:
