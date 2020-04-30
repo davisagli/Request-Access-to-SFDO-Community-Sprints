@@ -1,6 +1,6 @@
 ---
 name: Want to be a Collaborator on a project?
-about: Support a project as a member of the core development team
+about: A collaborator is someone on the core development team of the project who has commit access to the main repository of the project.
 labels: Access - Collaborator
 title: Collaborator Access Request
 assignees: jacebryan
