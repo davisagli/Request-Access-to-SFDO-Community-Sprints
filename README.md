@@ -1,6 +1,6 @@
 # Request Access to join an [SFDO-Community-Sprint](https://github.com/SFDO-Community-Sprints) Project!
 
-## Purpose of this repo
+## Purpose of this Repository
 
 In order to join one or more SFDO-Community-Sprint Project Teams access must be requested and granted based on anticipated role: Project Contributor or Project Collaborator.
 
