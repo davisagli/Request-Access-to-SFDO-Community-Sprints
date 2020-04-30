@@ -11,14 +11,14 @@ Please note: In order to have your access request considered please ensure you h
 
 ## What levels of involvement are available?
 
-### Project Contributor
+### Project Collaborators
 Someone from outside the core development team of the project who wants to contribute some changes to a project.
 
 Examples: Someone looking to support non-development activities **OR** someone looking to support some development activities but does not have the capacity to be a member of the core development team (i.e. Project Collaborator.)
 
 #### To request access as a Project Contributor click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request)!
 
-### Project Collaborator
+### Project Maintainers
 Someone on the core development team of the project who has commit access to the main repository of the project.
 
 Example: Someone looking to provide core development support including the review of Issues, PRs, and additions to code development (if the project has source code.)
