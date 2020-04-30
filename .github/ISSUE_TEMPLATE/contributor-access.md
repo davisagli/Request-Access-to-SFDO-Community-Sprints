@@ -6,9 +6,11 @@ title: Contributor Access Request
 assignees: jacebryan
 ---
 
-Contributor access is granted to an individual individual who is not part of a core development team and wants to contribute some changes to a specific project.
+A contributor is someone from outside the core development team of the project who wants to contribute some changes to a project.
 
-Please provide answers to the following questions in order for your access request to be considered:
+Examples: Someone looking to support non-development activities OR someone looking to support some development activities but does not have the capacity to be a member of the core development team (i.e. Project Collaborator.)
+
+**Please provide answers to the following questions in order for your access request to be considered:**
 
 What is your Github User Name? (ex: https://github.com/jacebryan)
 You are required to have a Github account in order to engage as a Contributor
