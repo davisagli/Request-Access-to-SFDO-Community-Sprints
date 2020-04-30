@@ -6,7 +6,6 @@ In order to join one or more SFDO-Community-Sprint Project Teams access must be 
 
 Please note: In order to have your access request considered please ensure you have the following information at hand when submitting your access request:
 
-- Your Github username
 - The name of the [SFDO-Community-Sprint Project](https://github.com/SFDO-Community-Sprints) you would like to join
 - Your Power of US Hub profile url
 
