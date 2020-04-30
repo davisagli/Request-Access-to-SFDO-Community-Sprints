@@ -26,4 +26,5 @@ A collaborator is someone on the core development team of the project who has co
 1. Submit a request to join a Project as either a [Contributor](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request) OR [Collaborator](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Collaborator&template=collaborator-access.md&title=Collaborator+Access+Request).
 1. A Salesforce.org Open Source Program Manager will review the request to ensure all information has been provided. If anything is missing from the request a comment will be posted asking for that information.
 1. Once reviewed, the Salesforce.org Open Source Program Manager will reach out to the identified Project Team to make them aware of the request.
-1. Once the Project Team approves the request access will be granted by a Salesforce.org Open Source Program Manager based on the requested role (Contributor or Collaborator).
+1. Once the Project Team approves the request access will be granted by a Salesforce.org Open Source Program Manager based on the requested role (Contributor or Collaborator) and Project.
+1. Once access is granted you will receive an email from Github asking you to accept the invitation to join the associated project Team.
