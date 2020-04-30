@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: Support a project as a non-core development team member
+about: A contributor is someone from outside the core development team of the project who wants to contribute some changes to a project.
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
