@@ -6,9 +6,11 @@ title: Collaborator Access Request
 assignees: jacebryan
 ---
 
-Collaborator access is granted to an individual who wants to become a member of the core development team.
+A collaborator is someone on the core development team of the project who has commit access to the main repository of the project.
 
-Please provide answers to the following questions in order for your access request to be considered:
+Example: Someone looking to provide core development support including the review of Issues, PRs, and additions to code development (if the project has source code.)
+
+**Please provide answers to the following questions in order for your access request to be considered:**
 
 What is your Github User Name? (ex: https://github.com/jacebryan)
 You are required to have a Github account in order to engage as a Collaborator
