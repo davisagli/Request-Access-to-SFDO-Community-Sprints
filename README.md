@@ -20,6 +20,8 @@ Examples: Someone looking to support non-development activities **OR** someone l
 ## What is a Project Collaborator?
 A collaborator is someone on the core development team of the project who has commit access to the main repository of the project.
 
+Example: Someone looking to provide core development support including the review of Issues, PRs, and additions to code development (if the project has source code.)
+
 ### To request access as a Project Collaborator click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Collaborator&template=collaborator-access.md&title=Collaborator+Access+Request)
 
 ## How the Request Access process works
