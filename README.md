@@ -11,4 +11,4 @@ Please note: In order to have your access request considered please ensure you h
 
 ### To request access as a Project Contributor click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request)!
 
-### To request access as a Project Maintainer click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Maintainer&template=maintainer-access.md&title=Maintainer+Access+Request)
+### To request access as a Project Maintainer click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Maintainer&template=maintainer-access.md&title=Maintainer+Access+Request)!
