@@ -15,4 +15,4 @@ Please note: In order to have your access request considered please ensure you h
 
 ### Project Maintainers
 
-#### To request access as a Project Collaborator click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Collaborator&template=collaborator-access.md&title=Collaborator+Access+Request)
+#### To request access as a Project Maintainer click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Maintainer&template=maintainer-access.md&title=Maintainer+Access+Request)
