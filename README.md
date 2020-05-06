@@ -2,7 +2,7 @@
 
 ## Purpose of this Repository
 
-In order to join one or more SFDO-Community-Sprint Project Teams access must be requested and granted based on anticipated level of involvement.
+In order to join one or more SFDO-Community-Sprint Project Teams, access must be requested and granted based on anticipated level of involvement.
 
 Please note: In order to have your access request considered please ensure you have the following information at hand when submitting your access request:
 
