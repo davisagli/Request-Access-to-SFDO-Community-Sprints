@@ -13,7 +13,7 @@ Example: Someone looking to provide core development support including the revie
 **Please provide answers to the following questions in order for your access request to be considered:**
 
 What is your Github User Name? (ex: https://github.com/jacebryan)
-You are required to have a Github account in order to engage as a Collaborator
+You are required to have a Github account in order to engage as a Maintainer
 -------------------------------------------
 ...
 
