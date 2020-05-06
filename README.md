@@ -9,10 +9,6 @@ Please note: In order to have your access request considered please ensure you h
 - The name of the [SFDO-Community-Sprint Project](https://github.com/SFDO-Community-Sprints) you would like to join
 - Your Power of US Hub profile url
 
-### Project Collaborators
+### To request access as a Project Contributor click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request)!
 
-#### To request access as a Project Contributor click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Contributor&template=contributor-access.md&title=Contributor+Access+Request)!
-
-### Project Maintainers
-
-#### To request access as a Project Maintainer click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Maintainer&template=maintainer-access.md&title=Maintainer+Access+Request)
+### To request access as a Project Maintainer click [here](https://github.com/jacebryan/Request-Access/issues/new?assignees=jacebryan&labels=Access+-+Maintainer&template=maintainer-access.md&title=Maintainer+Access+Request)
