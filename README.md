@@ -2,7 +2,7 @@
 
 ## Purpose of this Repository
 
-In order to join one or more SFDO-Community-Sprint Project Teams, access must be requested and granted based on anticipated level of involvement (i.e. [Contributor](https://github.com/jacebryan/Request-Access/wiki/What-is-a-Project-Collaborator%3F) or [Maintainer](https://github.com/jacebryan/Request-Access/wiki/What-is-a-Project-Maintainer%3F).)
+In order to join one or more SFDO-Community-Sprint Project Teams, access must be requested and granted based on anticipated level of involvement (i.e. [Contributor](https://github.com/jacebryan/Request-Access/wiki/What-is-a-Project-Contributor%3F) or [Maintainer](https://github.com/jacebryan/Request-Access/wiki/What-is-a-Project-Maintainer%3F).)
 
 Please note: In order to have your access request considered please ensure you have the following information at hand when submitting your access request:
 
