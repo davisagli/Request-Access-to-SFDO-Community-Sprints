@@ -12,11 +12,6 @@ Examples: Someone looking to support non-development activities OR someone looki
 
 **Please provide answers to the following questions in order for your access request to be considered:**
 
-What is your Github User Name? (ex: https://github.com/jacebryan)
-You are required to have a Github account in order to engage as a Contributor
--------------------------------------------
-...
-
 What Project are you looking to support as a Contributor?
 https://github.com/SFDO-Community-Sprints
 -------------------------------------------
