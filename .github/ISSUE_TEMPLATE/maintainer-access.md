@@ -6,12 +6,6 @@ title: Maintainer Access Request
 assignees: jacebryan
 ---
 
-A Project Maintainer is someone on the core development team of the project who has commit access to the main repository of the project.
-
-Example: Someone looking to provide core development support including the review of Issues, PRs, and additions to code development (if the project has source code.)
-
-**Please provide answers to the following questions in order for your access request to be considered:**
-
 What Project are you looking to support as a Maintainer?
 https://github.com/SFDO-Community-Sprints
 -------------------------------------------
