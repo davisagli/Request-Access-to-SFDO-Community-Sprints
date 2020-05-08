@@ -6,12 +6,6 @@ title: Contributor Access Request
 assignees: jacebryan
 ---
 
-A contributor is someone from outside the core development team of the project who wants to contribute some changes to a project.
-
-Examples: Someone looking to support non-development activities OR someone looking to support some development activities but does not have the capacity to be a member of the core development team (i.e. Project Collaborator.)
-
-**Please provide answers to the following questions in order for your access request to be considered:**
-
 What Project are you looking to support as a Contributor?
 https://github.com/SFDO-Community-Sprints
 -------------------------------------------
