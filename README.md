@@ -8,4 +8,4 @@ In order to become a member of an SFDO-Community-Sprint Project, access must be 
 
 ### To learn about Project Maintainers click [here](https://github.com/jacebryan/Access-Request/wiki/What-is-a-Project-Maintainer%3F)!
 
-### Click [here](https://github.com/jacebryan/Access-Request/wiki/Process-for-Requesting-Access) to learn more about the Access Request process.
+### To learn more about the Access Request process click [here](https://github.com/jacebryan/Access-Request/wiki/Process-for-Requesting-Access) t
