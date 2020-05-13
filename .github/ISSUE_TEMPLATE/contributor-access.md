@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: Click the Get Started button to request access!
+about: Click the 'Get started' button to request access!
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
