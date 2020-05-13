@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: Click [here](https://github.com/Jaces-Test-Organization/Request-Access-to-SFDO-Community-Sprints/wiki/What-is-a-Project-Contributor%3F) to learn more
+about: Click here to learn more: shorturl.at/aknZ8
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
