@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: A contributor is someone from outside the core development team of the project who wants to contribute some changes to a project.
+about: Click [here](https://github.com/Jaces-Test-Organization/Request-Access-to-SFDO-Community-Sprints/wiki/What-is-a-Project-Contributor%3F) to learn more
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
