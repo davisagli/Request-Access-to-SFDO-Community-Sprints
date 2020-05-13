@@ -1,6 +1,6 @@
 ---
 name: Want to be a Contributor to a project?
-about: Click here to learn more: shorturl.at/aknZ8
+about: Submit your request to join a Project!
 labels: Access - Contributor
 title: Contributor Access Request
 assignees: jacebryan
