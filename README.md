@@ -1,7 +1,5 @@
 # Request Access to join an [SFDO-Community-Sprint](https://github.com/SFDO-Community-Sprints) Project!
 
-## Purpose of this Repository
-
 In order to join an SFDO-Community-Sprint Project, Contributor access must first be requested.
 
 ### What does it mean to be a Contributor?
