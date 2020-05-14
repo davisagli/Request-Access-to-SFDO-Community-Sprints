@@ -1,4 +1,0 @@
-# This file is used to assign a PR Reviewer any time a change is made to the test-project.md file.
-# This file references the Salesforce Team: Open Source Program Managers (which currently contains 'jacebryan')
-
-/test-project.md   @Jaces-Test-Organization/open-source-program-managers
