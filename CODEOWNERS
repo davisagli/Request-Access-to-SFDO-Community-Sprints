@@ -1,4 +1,4 @@
 # This file will set default reviewer on any PR that is opened against any .md file that is modified in the projects directory.
 
 # File Location/File Name              # Organization Name/Team Name
-/projects/*.md                          @Jaces-Test_Organization/open-source-program-managers
+Projects/*.md                          @Jaces-Test_Organization/open-source-program-managers
