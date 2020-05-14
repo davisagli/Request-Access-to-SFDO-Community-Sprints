@@ -1,8 +1,3 @@
----
-labels: Access - Contributor
-reviewers: jacebryan
----
-
 ### Related Issue:
 fixes <enter # of Issue>
 
