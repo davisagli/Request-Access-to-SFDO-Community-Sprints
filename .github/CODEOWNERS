@@ -1,5 +1,5 @@
 # This file will set default reviewer on any PR that is opened against any file that is modified in the projects directory.
 
 # Patten
-# Directory/File Name               Username
-Projects/*.md                       @kschaefges                 
+# Directory/File Name               Org Name/Team Name
+Projects/*.md                       @Jaces-Test-Organization/open-source-program-managers              
