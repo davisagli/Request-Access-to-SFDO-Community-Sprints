@@ -1,0 +1,3 @@
+# This file is used to assign a PR Reviewer at the time the PR is opened.
+# This file references the Salesforce Team: Open Source Program Managers (which currently contains 'jacebryan')
+@org/open-source-program-managers
