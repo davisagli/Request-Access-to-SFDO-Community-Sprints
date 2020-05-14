@@ -1,3 +1,4 @@
-# This file is used to assign a PR Reviewer at the time the PR is opened.
+# This file is used to assign a PR Reviewer any time a change is made to the Summit Events App.md file.
 # This file references the Salesforce Team: Open Source Program Managers (which currently contains 'jacebryan')
-@Jaces-Test-Organization/open-source-program-managers
+
+/projects/Summit Events App.md.    @Jaces-Test-Organization/open-source-program-managers
